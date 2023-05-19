@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "chatgpt",
+    "dotenv",
+    "openai"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
